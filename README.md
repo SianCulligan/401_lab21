@@ -10,4 +10,4 @@
 - [Open CodeSandbox](https://codesandbox.io/s/component-based-ui-lrom2?file=/public/index.html)
 
 ### UML Diagram:
-![lab 21][/Lab21UML.png]
+![lab 21](Lab21UML.png)
